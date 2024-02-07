@@ -1,5 +1,7 @@
 # imput
 # author: Gabriela Domiciano Avellar
 
-name = input ("Gabriela Domiciano Avellar")
-print ('Hello' + name)
+
+
+name = input ("Gabriela Domiciano")
+print ('Hello' + name + '\nNice to meet you')

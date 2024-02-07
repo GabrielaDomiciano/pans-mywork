@@ -2,4 +2,4 @@
 # This program just prints out hello world
 # author: Gabriela Domciano Avellar
 
-print ("Hello World")
+print ("hello World")

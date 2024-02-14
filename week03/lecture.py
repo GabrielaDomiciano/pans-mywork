@@ -18,4 +18,11 @@ print ("answer is " + str(answer))
 # to print the type of varible
 print (f"type of the answer is {type(answer_of_question)}")
 
+#variaveis corretas
+nome = 'Gabi'
+nome = 'cosme'
+nome_de_usuario = 'gabi do python'
+numero_cpf = ''
 
+#variavel nao comeca com numero
+#nome com espaco

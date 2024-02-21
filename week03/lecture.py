@@ -26,3 +26,8 @@ numero_cpf = ''
 
 #variavel nao comeca com numero
 #nome com espaco
+
+# Get last character of string i.e. char at index position -1
+test = "123456"
+last_char = test[-4:]
+print('Last character : ', last_char)

@@ -28,4 +28,4 @@ print (f"{howMany} random numbers\t {numbers}")
 
 topOnes = numbers.copy()
 topOnes.sort(reverse = True)
-print ("The top ", howMany , numberToGuess)
+print (f"The top {topHowMany} are \t\t {topOnes[0:topHowMany]}")

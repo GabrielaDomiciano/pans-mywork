@@ -14,7 +14,6 @@ while number != 0:
 
 
 # read the next number and check if 0
-    
     number = int(input("enter another (0 to quit): "))
 
 for value in numbers:

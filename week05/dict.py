@@ -23,6 +23,8 @@ car = {
 }
 
 print(car["year"])
+print(car["owner"]["name"])
+print (type(car["owner"].get("names")))
 
 
 
